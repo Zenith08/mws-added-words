@@ -1,2 +1,2 @@
-7@https://raw.githubusercontent.com/Zenith08/mws-added-words/master/new-includes.txt
+8@https://raw.githubusercontent.com/Zenith08/mws-added-words/master/new-includes.txt
 9@https://raw.githubusercontent.com/Zenith08/mws-added-words/master/ver9.txt
