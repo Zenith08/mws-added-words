@@ -1,2 +1,3 @@
 8@https://raw.githubusercontent.com/Zenith08/mws-added-words/master/eight.txt
 9@https://raw.githubusercontent.com/Zenith08/mws-added-words/master/nine.txt
+10@https://raw.githubusercontent.com/Zenith08/mws-added-words/master/ten.txt
